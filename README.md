@@ -7,6 +7,7 @@
 1. `MashMouse.exe` を起動します。
 
 ### 各項目の説明
+![MashMouse UI](https://github.com/Kukiyomenai/Release-MashMouse/blob/main/README/image1.png)
 
 - **速度 (ms)**  
   クリックの連打間隔をミリ秒単位で設定できます。
